@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3136B4bC8d0f00D7722eEdebE989CfAB895167f0",
+  "SCAN_LINK": "https://polygonscan.com/address/0x3136B4bC8d0f00D7722eEdebE989CfAB895167f0",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "UkraineFreedom",
+  "SYMBOL": "UAH NFT",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 485000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
+  "SHOW_BACKGROUND": true
+}
